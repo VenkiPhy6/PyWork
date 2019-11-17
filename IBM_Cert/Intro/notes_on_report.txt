@@ -1,0 +1,25 @@
+Cover page
+Table of contents
+Introductory section
+Methodology section
+Results section
+Discussion section
+Conclusion section
+References
+Acknowledgment
+Appendix
+
+
+10 main components of a Data Science project report:
+A Data Science project report should primarily build a narrative based on the sights that were gained from the analysis. It should have a logical structure regardless of its length. This structure has 10 main components as explained below:
+1. It should have a Cover Page that gives the title of the report, the name of the authors, their affiliations, and their contact info along with the publication date.
+2. It should have a Table Of Contents with a list of chapters, tables, and figures.
+3. It should have an Abstract that presents the crux of the argument being made in the report.
+4. It should have a good Introduction section that establishes the aim(s) of the analysis and gets across to the reader what they will gain by reading the report.
+5. it should have a Literature Review section that sets up the context for the work.
+6. It should have a Methodology section which mentions the data source(s) & the method(s) involved in cleaning the data source or the method(s) involved in collecting new data.
+7. It should have a Results section which provides visualizations of descriptive statistics of the data being used. In addition, it should mention the hypotheses that were tested and any statistical methods used to do so. 
+8. It should have a Discussions section that builds the main arguments out of the results. It should also mention all the assumptions and caveats involved in the testing and the results.
+9. It should have a good Conclusion section that sells the results to the reader. It should also mention the scope for future work based on the results.
+10. It should have a References and Acknowledgments section.
+11. Finally, it can also have an Appendix section if needed.

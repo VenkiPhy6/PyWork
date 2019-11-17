@@ -1,0 +1,30 @@
+- Think of a pandas dataset as a numpy array with names for row and column numbers! That is a dict + numpy array!
+
+- - Columns labels are like dict keys, while row names are called indices (as opposed to conventional indices) in DF.
+
+- To select a list of columns, give in a list as the conventional index! If you want a list of rows and list of columns then give both as lists.
+
+- iloc is integer based location. Normal loc is key based location. Also iloc can take in step values (as usual it is the 3rd slice)
+
+- pd.DataFrame({}) -> adds series as columns with keys as names. pd.DataFrame([]) -> adds series as rows
+
+- dropna, fillna to drop nulls and fill nulls
+
+- Series + n-level Indices is a n*n matrix in 1d!! 
+	+ This requires xs to slice through
+
+- Merging:
+	+ Based on Keys or Indices or combo - left_on, right_on or left_index = bool, right_index = bool
+	+ JOINS - how option in merge command
+
+- Join:
+	+ Useful because more than two dfs can be passed in simultaneously uinlike merge
+	
+- Concat
+	+ Based on multiple dfs in terms of rows or columns!!
+	+ Can help create multiindices
+
+- Stack, Unstack = DF -> Series and Series -> DF
+	+ Stack->Unstack = Transpose! 
+
+
